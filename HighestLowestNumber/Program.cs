@@ -23,19 +23,30 @@ namespace HighestLowestNumber
         }
         static void Main()
         {
-            int A = GetNumber("Please enter value of number A: ");
-            int B = GetNumber("Please enter value of number B: ");
-            int C = GetNumber("Please enter value of number C: ");
-            int D = GetNumber("Please enter value of number D: ");
-            int E = GetNumber("Please enter value of number E: ");
+            char repeat;
 
-            int[] table = { A, B, C, D, E };
+            do
+            {
+                int A = GetNumber("Please enter value of number A: ");
+                int B = GetNumber("Please enter value of number B: ");
+                int C = GetNumber("Please enter value of number C: ");
+                int D = GetNumber("Please enter value of number D: ");
+                int E = GetNumber("Please enter value of number E: ");
 
-            int max = table.Max();
-            int min = table.Min();
+                int[] table = { A, B, C, D, E };
 
-            Console.WriteLine("Max number is: " + max);
-            Console.WriteLine("Min number is: " + min);
+                int max = table.Max();
+                int min = table.Min();
+
+                Console.WriteLine("Max number is: " + max);
+                Console.WriteLine("Min number is: " + min);
+
+                Console.WriteLine("Do you want to check yur numbers again? y/n: ");
+                repeat = Console.ReadKey().KeyChar;
+                Console.WriteLine();
+
+            } while (char.ToLower(repeat) == 'y');
+            Console.WriteLine("Goodbye.");
         }
     }
 }
