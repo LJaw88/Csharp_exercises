@@ -1,0 +1,15 @@
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\bin\Debug\net9.0\temp_conversion.exe
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\bin\Debug\net9.0\temp_conversion.deps.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\bin\Debug\net9.0\temp_conversion.runtimeconfig.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\bin\Debug\net9.0\temp_conversion.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\bin\Debug\net9.0\temp_conversion.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.AssemblyInfoInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.AssemblyInfo.cs
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.csproj.CoreCompileInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.sourcelink.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\refint\temp_conversion.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\temp_conversion.genruntimeconfig.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\temp_conversion\obj\Debug\net9.0\ref\temp_conversion.dll
