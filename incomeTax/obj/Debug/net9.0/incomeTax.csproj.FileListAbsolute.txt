@@ -1,0 +1,15 @@
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.AssemblyInfoInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.AssemblyInfo.cs
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.csproj.CoreCompileInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.sourcelink.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\bin\Debug\net9.0\incomeTax.exe
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\bin\Debug\net9.0\incomeTax.deps.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\bin\Debug\net9.0\incomeTax.runtimeconfig.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\bin\Debug\net9.0\incomeTax.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\bin\Debug\net9.0\incomeTax.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\refint\incomeTax.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\incomeTax.genruntimeconfig.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\incomeTax\obj\Debug\net9.0\ref\incomeTax.dll
