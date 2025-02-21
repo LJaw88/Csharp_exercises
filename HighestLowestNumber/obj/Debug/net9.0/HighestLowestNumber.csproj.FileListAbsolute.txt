@@ -1,0 +1,15 @@
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.AssemblyInfoInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.AssemblyInfo.cs
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.csproj.CoreCompileInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.sourcelink.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\bin\Debug\net9.0\HighestLowestNumber.exe
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\bin\Debug\net9.0\HighestLowestNumber.deps.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\bin\Debug\net9.0\HighestLowestNumber.runtimeconfig.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\bin\Debug\net9.0\HighestLowestNumber.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\bin\Debug\net9.0\HighestLowestNumber.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\refint\HighestLowestNumber.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\HighestLowestNumber.genruntimeconfig.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\HighestLowestNumber\obj\Debug\net9.0\ref\HighestLowestNumber.dll
