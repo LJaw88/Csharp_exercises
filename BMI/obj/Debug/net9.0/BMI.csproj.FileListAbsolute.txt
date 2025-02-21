@@ -1,0 +1,15 @@
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\bin\Debug\net9.0\BMI.exe
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\bin\Debug\net9.0\BMI.deps.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\bin\Debug\net9.0\BMI.runtimeconfig.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\bin\Debug\net9.0\BMI.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\bin\Debug\net9.0\BMI.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.AssemblyInfoInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.AssemblyInfo.cs
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.sourcelink.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\refint\BMI.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\BMI.genruntimeconfig.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\BMI\obj\Debug\net9.0\ref\BMI.dll
