@@ -1,0 +1,15 @@
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.AssemblyInfoInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.AssemblyInfo.cs
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.csproj.CoreCompileInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.sourcelink.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\bin\Debug\net9.0\ATM Machine.exe
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\bin\Debug\net9.0\ATM Machine.deps.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\bin\Debug\net9.0\ATM Machine.runtimeconfig.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\bin\Debug\net9.0\ATM Machine.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\bin\Debug\net9.0\ATM Machine.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\refint\ATM Machine.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ATM Machine.genruntimeconfig.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\ATM Machine\obj\Debug\net9.0\ref\ATM Machine.dll
