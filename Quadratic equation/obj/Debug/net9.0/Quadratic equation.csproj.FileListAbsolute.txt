@@ -1,0 +1,15 @@
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.AssemblyInfoInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.AssemblyInfo.cs
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.csproj.CoreCompileInputs.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.sourcelink.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\bin\Debug\net9.0\Quadratic equation.exe
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\bin\Debug\net9.0\Quadratic equation.deps.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\bin\Debug\net9.0\Quadratic equation.runtimeconfig.json
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\bin\Debug\net9.0\Quadratic equation.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\bin\Debug\net9.0\Quadratic equation.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\refint\Quadratic equation.dll
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.pdb
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\Quadratic equation.genruntimeconfig.cache
+C:\Users\ljawo\Documents\GitHub\Csharp_exercises\Quadratic equation\obj\Debug\net9.0\ref\Quadratic equation.dll
